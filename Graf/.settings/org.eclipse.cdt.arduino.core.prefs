@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=["DallasTemperature","DHT sensor library","TFT_HX8357","LiquidCrystal","Adafruit BMP280 Library"]
